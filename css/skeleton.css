@@ -425,8 +425,8 @@ body{
 
 
 #hero-image {
-  height: 1200px;
-  background: url(../images/30.jpg);
+  height: 2000px;
+  background: url(../images/29.jpg);
   background-size: cover;
   width: 100%;
   margin: auto;
@@ -454,7 +454,7 @@ body{
   height: 350px;
   background-color: white;
   display: flex;
-  justify-content: space-between;
+  /*justify-content: space-between;*/
 }
 
 .wedding-party p {
@@ -463,6 +463,26 @@ body{
 
 .brides-side, .grooms-side {
   padding: 30px;
+}
+
+.brides-side {
+  text-align: right;
+}
+
+#how-we-met-container{
+  height: 100%;
+  display: flex;
+}
+
+#how-we-met-story {
+  width: 58%;
+  padding-left: 10px;
+}
+
+#how-we-met-image {
+  width: 40%;
+  background: url(../images/15bw.jpg);
+  background-size: cover;
 }
 
 .registry {
