@@ -416,3 +416,61 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+
+body{
+ 
+}
+
+
+
+#hero-image {
+  height: 1200px;
+  background: url(../images/30.jpg);
+  background-size: cover;
+  width: 100%;
+  margin: auto;
+}
+
+#hero-image h1 {
+  padding-left: 50px;
+  padding-top: 200px;
+}
+
+.header {
+  height: 500px;
+  background-color: white;
+  text-align: center;
+}
+
+.details {
+  min-height: 300px;
+  height: 100%;
+  background-color: #FAFAFD;
+  text-align: center;
+}
+
+.wedding-party {
+  height: 350px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.wedding-party p {
+  height: 35px;
+}
+
+.brides-side, .grooms-side {
+  padding: 30px;
+}
+
+.registry {
+  height: 250px;
+  background-color: #FAFAFD;
+}
+.hidden {
+  display: none;
+}
+
+
