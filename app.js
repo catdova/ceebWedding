@@ -1,5 +1,9 @@
 $(document).ready(function(){
- 	
- 	alert("if you're seeing this, the js file is working");
+ 
+	$('.click-details').click(function(){
+		$(this).children('.hidden').toggle();
+	});
 
+
+ 
 });

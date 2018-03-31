@@ -124,7 +124,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Oswald" "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
 
 
@@ -158,9 +158,9 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
+  color: black; }
 a:hover {
-  color: #0FA0CE; }
+  color: #B094A0; }
 
 
 /* Buttons
@@ -403,63 +403,89 @@ there.
 
 
 /* Larger than mobile */
-@media (min-width: 400px) {}
-
-/* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 550px) {}
-
-/* Larger than tablet */
-@media (min-width: 750px) {}
-
-/* Larger than desktop */
-@media (min-width: 1000px) {}
-
-/* Larger than Desktop HD */
-@media (min-width: 1200px) {}
-
-
-body{
- 
+@media (min-width: 300px) {
+  
+.party-about  {
+  margin-bottom: 3px;
+  font-size: .85em;
+  font-weight: 200;
 }
 
 
 
-#hero-image {
-  height: 2000px;
-  background: url(../images/29.jpg);
-  background-size: cover;
+
+#top-of-page {
+  background: url("../images/birds.png");
+  background-position:center top, left top;  
+  height: 200px;
   width: 100%;
   margin: auto;
+  text-align: center;
 }
 
-#hero-image h1 {
-  padding-left: 50px;
-  padding-top: 200px;
+#bride-and-groom {
+  text-align: center;
+  height: 275px;
+}
+
+
+
+.name {
+  font-family: 'Sacramento', cursive;
+  font-size: 6em;
+  margin-bottom: 1px;
+}
+
+.name-2, #header-line-two {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 0;
+  font-weight: 200;
+}
+
+#main-image-container {
+  min-height: 300px;
+  height: 100%;
+}
+
+#main-image-container img {
+  display:block;
+  width:100%;
+  margin-bottom:30px;
+  box-sizing:border-box;
+  border:solid 8px #fff;
+  box-shadow:0 1px 4px rgba(0, 0, 0, 0.25);
 }
 
 .header {
-  height: 500px;
+  height: 200px;
   background-color: white;
   text-align: center;
 }
 
 .details {
-  min-height: 300px;
   height: 100%;
   background-color: #FAFAFD;
   text-align: center;
 }
 
-.wedding-party {
-  height: 350px;
-  background-color: white;
-  display: flex;
-  /*justify-content: space-between;*/
+#header-line-one, #how-we-met-story h1, .registry h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 3em;
+  color: #B094A0;
+  margin-bottom: 0;
+  font-weight:normal;
 }
 
-.wedding-party p {
-  height: 35px;
+
+.wedding-party {
+  height: 100%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
 }
+
+
 
 .brides-side, .grooms-side {
   padding: 30px;
@@ -467,22 +493,35 @@ body{
 
 .brides-side {
   text-align: right;
+  width: 45%;
 }
 
-#how-we-met-container{
-  height: 100%;
-  display: flex;
+.grooms-side {
+  width: 45%;
 }
+
+.party-title {
+  font-size: 1.1em;
+  font-weight: 700;
+  margin-top: 1px;
+  color: #B094A0;
+  margin-bottom: 1px;
+}
+
+
+#how-we-met-image-container img {
+  display:block;
+  width:100%;
+  margin-bottom:30px;
+  box-sizing:border-box;
+  border:solid 8px #fff;
+  box-shadow:0 1px 4px rgba(0, 0, 0, 0.25);
+}
+
 
 #how-we-met-story {
-  width: 58%;
-  padding-left: 10px;
-}
-
-#how-we-met-image {
-  width: 40%;
-  background: url(../images/15bw.jpg);
-  background-size: cover;
+ text-align: center;
+ margin: 0, 10px, 0, 10px;
 }
 
 .registry {
@@ -491,6 +530,86 @@ body{
 }
 .hidden {
   display: none;
+  font-size: .75em;
+  color: black;
 }
 
+
+.click-details:hover {
+  color: #B094A0;
+  cursor: pointer;
+}
+
+.header img {
+  padding-top: 10px;
+  margin-bottom: 40px;
+}
+
+.registry h1 {
+  padding-top: 25px;
+}
+
+.registry {
+  text-align: center;
+  font-weight: 200;
+}
+
+a {
+  text-decoration: none;
+}
+
+}
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 550px) {}
+#how-we-met-story p {
+  font-size: .9em;
+  font-weight: 200;
+  }
+
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+
+#bride-and-groom {
+  height: 305px;
+}
+
+.party-about {
+  font-size: .9em;
+}
+
+.party-title {
+  font-size: 1.25em;
+  margin-bottom: 5px;
+}
+
+#how-we-met-container {
+  display: flex;
+}
+
+#how-we-met-image-container  {
+  display: inline;
+  width: 85%;
+}
+
+#how-we-met-story {
+  width: 100%;
+}
+
+
+
+}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {
+
+#how-we-met-story p, .registry p {
+  font-size: 1.15em;
+  font-weight: 200;
+  }
+}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}
 

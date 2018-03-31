@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"des",
+				"destination"
+			],
+			[
+				"blue",
+				"blueBlack"
+			],
+			[
+				"maps",
+				"mapsURL"
+			],
+			[
+				"t",
+				"targetGeolocation"
+			],
+			[
+				"padding-t",
+				"padding-top"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"cur",
+				"cur\tcursor: ${pointer};"
+			],
+			[
+				"trail-",
+				"trail-results"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"reddit",
+				"reddit-article"
+			],
+			[
+				"post",
+				"postTitle"
+			],
+			[
+				"all",
+				"allArtists"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"tra",
+				"trail-results"
+			],
+			[
+				"d",
+				"difficulty"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"trail",
+				"trailInfo"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"W",
+				"weatherInfo"
+			],
+			[
+				"w",
+				"weatherObject"
+			],
+			[
+				"new",
+				"newArtist"
+			],
+			[
+				"message",
+				"messageBoard"
+			],
+			[
+				"pop",
+				"popUpLink"
+			],
+			[
+				"popUp",
+				"popUpLink"
+			],
+			[
+				"popU",
+				"popUpImage"
+			],
+			[
+				"article",
+				"articleContent"
+			],
+			[
+				"red",
+				"redditPosts"
+			],
+			[
+				"reddi",
+				"redditpost"
+			],
+			[
+				"pig",
+				"pigImage"
+			],
+			[
+				"cow",
+				"cowImage"
+			],
+			[
+				"row",
+				"row-reverse"
+			],
+			[
+				"turk",
+				"turkeyImage"
+			],
+			[
+				"pi",
+				"pigImage"
+			],
+			[
+				"horse",
+				"horseImage"
+			],
+			[
+				"goose",
+				"gooseImage"
+			],
+			[
+				"get",
+				"getCurrentPosition"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"chan",
+				"changeDie2"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"roll",
+				"roll-dice"
+			],
+			[
+				"first",
+				"first-die"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"lyric",
+				"lyriccitation2"
+			],
+			[
+				"paddni",
+				"padding-bottom"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"repea",
+				"repeat-x"
+			],
+			[
+				"val",
+				"valueToAdd"
+			],
+			[
+				"illumin",
+				"illuminateGreen"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"fle",
+				"flex-end"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kimcordova/iCloud Drive (Archive)/Desktop/FEWD14/Assignment 2 Relaxr/css/style.css",
+		"/Users/kimcordova/Sites/courtneyWedding/CSS/style.css",
+		"/Users/kimcordova/Sites/courtneyWedding/Skeleton-2.0.4/index.html",
+		"/Users/kimcordova/Sites/camping-planner/app.js",
+		"/Users/kimcordova/Sites/GA-JSR/jsr-12/js/app.js",
+		"/Users/kimcordova/Sites/camping-planner/mapsAPItesting",
+		"/Users/kimcordova/Sites/camping-planner/css/style.css",
+		"/Users/kimcordova/Sites/GA-JSR/jsr-12/styles/style.css",
+		"/Users/kimcordova/Sites/GA-JSR/jsr-12/index.html",
+		"/Users/kimcordova/Sites/GA-JSR/jsr-16/app.js",
+		"/Users/kimcordova/Sites/GA-JSR/jsr-14/app.js",
+		"/Users/kimcordova/Sites/GA-JSR/jsr-15/app.js",
+		"/Users/kimcordova/Sites/camping-planner/weatherapp.js",
+		"/Users/kimcordova/Sites/GA-JSR/jsr-11-master/app.js",
+		"/Users/kimcordova/Sites/camping-planner/stylesheet.css",
+		"/Users/kimcordova/Downloads/hubot-business-cat-master/index.coffee",
+		"/Users/kimcordova/Downloads/jsr-08-master/jquery_events/index.html",
+		"/Users/kimcordova/Sites/GA-JSR/myhubot/scripts/scripts.js",
+		"/Users/kimcordova/Downloads/marketing-with-nav/style.css",
+		"/Users/kimcordova/Sites/GA-JSR/myhubot/package.json",
+		"/Users/kimcordova/Sites/GA-JSR/jsr-04-dice-master/js/app.js",
+		"/Users/kimcordova/Sites/GA-JSR/jsr-04-dice-master/index.html",
+		"/Users/kimcordova/Sites/GA-JSR/jsr-04-dice-master/js/app2.js",
+		"/Users/kimcordova/Sites/newCatdova.github.io/jsr-homework-2/index.js",
+		"/Users/kimcordova/Desktop/index.html",
+		"/Users/kimcordova/Sites/index.html",
+		"/Users/kimcordova/Documents/jsr/index.html",
+		"/Users/kimcordova/Downloads/songinput.txt",
+		"/Users/kimcordova/Desktop/FEWD14/Final Project/css/index.css",
+		"/Users/kimcordova/Desktop/FEWD14/Final Project/songs/001.html",
+		"/Users/kimcordova/Desktop/FEWD14/Final Project/index.html",
+		"/Users/kimcordova/Desktop/Foodbank/css/style.css",
+		"/Users/kimcordova/Desktop/Foodbank/index.html",
+		"/Users/kimcordova/Desktop/Projects/Waunakee Food Bank/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/Assignment 2 Relaxr/index.html",
+		"/Users/kimcordova/Downloads/html5-boilerplate_v5.3.0/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/relaxrBlog/css/style.css",
+		"/Users/kimcordova/Desktop/FEWD14/relaxrBlog/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/Startup_Matchmaker_Responsive_-_Starter_Code/css/main.css",
+		"/Users/kimcordova/Desktop/FEWD14/Startup_Matchmaker_Responsive_-_Starter_Code/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/Assignment_06_Starter_Code/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/Assignment_06_Starter_Code/js/app.js",
+		"/Users/kimcordova/Desktop/FEWD14/CitiPix/index.js",
+		"/Users/kimcordova/Desktop/FEWD14/Final Project/JS/index.js",
+		"/Users/kimcordova/Desktop/FEWD14/Final Project/songs/002.html",
+		"/Users/kimcordova/Desktop/FEWD14/Final Project/README.md",
+		"/Users/kimcordova/Desktop/FEWD14/Final Project/songs/003.html",
+		"/Users/kimcordova/Desktop/FEWD14/Final Project/songs/004.html",
+		"/Users/kimcordova/Desktop/FEWD14/Todo/js/index.js",
+		"/Users/kimcordova/Desktop/FEWD14/Final Project/songs/2arronburrsir.html",
+		"/Users/kimcordova/Desktop/FEWD14/Final Project/songs/1alexanderhamilton.html",
+		"/Users/kimcordova/Desktop/FEWD14/Final Project/JS/songone.js",
+		"/Users/kimcordova/Desktop/FEWD14/Todo/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/Todo/css/index.css",
+		"/Users/kimcordova/Desktop/FEWD14/cash_register/js/index.js",
+		"/Users/kimcordova/Desktop/FEWD14/cash_register/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/inclassform/index.js",
+		"/Users/kimcordova/Desktop/FEWD14/inclassform/index.css",
+		"/Users/kimcordova/Desktop/FEWD14/inclassform/index.html",
+		"/Users/kimcordova/Downloads/all-f6-templates/blog-simple.html",
+		"/Users/kimcordova/Desktop/FEWD14/Debugging/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/Debugging/js/debug.js",
+		"/Users/kimcordova/Desktop/FEWD14/js-exercises/js/index.js",
+		"/Users/kimcordova/Desktop/FEWD14/Assignment 2 Relaxr/css/style.css",
+		"/Users/kimcordova/Desktop/FEWD14/CitiPix/css/style.css",
+		"/Users/kimcordova/Desktop/FEWD14/CitiPix/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/compare_that/index.js",
+		"/Users/kimcordova/Desktop/FEWD14/Weather App/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/cash_register/css/style.css",
+		"/Users/kimcordova/Desktop/FEWD14/compare_that/css/style.css",
+		"/Users/kimcordova/Desktop/FEWD14/compare_that/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/score_keeper/index.js",
+		"/Users/kimcordova/Desktop/FEWD14/score_keeper/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/Project 4/index.js",
+		"/Users/kimcordova/Desktop/FEWD14/Project 4/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/traffic_light/css/style.css",
+		"/Users/kimcordova/Desktop/FEWD14/traffic_light/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/traffic_light/js/index.js",
+		"/Users/kimcordova/Desktop/FEWD14/StartupMatch/pages/css/style.css",
+		"/Users/kimcordova/Desktop/FEWD14/StartupMatch/css/style.css",
+		"/Users/kimcordova/Desktop/FEWD14/StartupMatch/Pages/developers.html",
+		"/Users/kimcordova/Desktop/FEWD14/StartupMatch/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/StartupMatch/pages/designers.html",
+		"/Users/kimcordova/Desktop/FEWD14/StartupMatch/pages/blog.html",
+		"/Users/kimcordova/Desktop/FEWD14/StartupMatch/pages/team.html",
+		"/Users/kimcordova/Desktop/FEWD14/StartupMatch/pages/how-it-works.html",
+		"/Users/kimcordova/Desktop/FEWD14/Assignment 2- Landing Page/starter_code/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/Assignment 2- Landing Page/starter_code/css/style.css",
+		"/Users/kimcordova/Downloads/marketing-with-nav/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/Lesson 4 in class/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/02 Portfolio Page/CSS/style.css",
+		"/Users/kimcordova/Desktop/FEWD14/tags_boxes 2/css/style.css",
+		"/Users/kimcordova/Desktop/FEWD14/02 Portfolio Page/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/tags_boxes 2/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/02 Portfolio Page/pages/portfolio.html",
+		"/Users/kimcordova/Desktop/FEWD14/02 Portfolio Page/pages/contact.html",
+		"/Users/kimcordova/Desktop/FEWD14/02 Portfolio Page/pages/stuffilike.html",
+		"/Users/kimcordova/Desktop/FEWD14/02 Portfolio Page/stuffilike.html",
+		"/Users/kimcordova/Desktop/FEWD14/index.html",
+		"/Users/kimcordova/Desktop/FEWD14/CSS/style.css",
+		"/Users/kimcordova/Desktop/catdova.github.io/unit_1/css/style.css",
+		"/Users/kimcordova/Desktop/catdova.github.io/unit_1/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
