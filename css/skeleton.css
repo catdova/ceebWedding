@@ -469,7 +469,7 @@ there.
   text-align: center;
 }
 
-#header-line-one, #how-we-met-story h1, .registry h1 {
+#header-line-one, #how-we-met-story h1, .registry h1, #connor-bio h1 {
   font-family: 'Sacramento', cursive;
   font-size: 3em;
   color: #B094A0;
@@ -509,7 +509,7 @@ there.
 }
 
 
-#how-we-met-image-container img {
+#how-we-met-image-container img, #bio-image-container img {
   display:block;
   width:100%;
   margin-bottom:30px;
@@ -519,13 +519,21 @@ there.
 }
 
 
-#how-we-met-story {
+
+/*#bio-image-container img{
+  width:70%;
+  float: right;
+  margin-right: 20px;
+}*/
+
+
+#how-we-met-story, #connor-bio {
  text-align: center;
  margin: 0, 10px, 0, 10px;
 }
 
 .registry {
-  height: 250px;
+  height: 400px;
   background-color: #FAFAFD;
 }
 .hidden {
@@ -562,11 +570,21 @@ a {
 
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {}
-#how-we-met-story p {
+#how-we-met-story p, #connor-bio p {
   font-size: .9em;
   font-weight: 200;
+  margin: 0, 25px;
   }
 
+
+#connor-bio p {
+  font-size: 1.2em;
+
+}
+
+#connor-bio h1{
+  margin-top: 60px;
+}
 
 /* Larger than tablet */
 @media (min-width: 750px) {
@@ -584,19 +602,28 @@ a {
   margin-bottom: 5px;
 }
 
-#how-we-met-container {
+#how-we-met-container, #bios-container {
   display: flex;
 }
 
-#how-we-met-image-container  {
+#how-we-met-image-container {
   display: inline;
   width: 85%;
 }
 
-#how-we-met-story {
+#bio-image-container {
+  display: inline;
+  width: 60%;
+}
+
+#how-we-met-story{
   width: 100%;
 }
 
+#connor-bio {
+  width: 100%;
+  padding: 30px;
+}
 
 
 }

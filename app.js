@@ -4,6 +4,5 @@ $(document).ready(function(){
 		$(this).children('.hidden').toggle();
 	});
 
-
  
 });
