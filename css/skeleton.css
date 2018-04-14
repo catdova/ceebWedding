@@ -432,7 +432,7 @@ there.
 
 .name {
   font-family: 'Sacramento', cursive;
-  font-size: 6em;
+  font-size: 7em;
   margin-bottom: 1px;
 }
 
@@ -441,6 +441,12 @@ there.
   font-size: 1.5em;
   margin-bottom: 0;
   font-weight: 200;
+}
+
+#rsvp-link{
+  margin-top: 15px; 
+  margin-bottom: 15px;
+  background: url("images/RSVP.png");
 }
 
 #main-image-container {
@@ -458,7 +464,7 @@ there.
 }
 
 .header {
-  height: 200px;
+  height: 325px;
   background-color: white;
   text-align: center;
 }
@@ -476,7 +482,6 @@ there.
   margin-bottom: 0;
   font-weight:normal;
 }
-
 
 .wedding-party {
   height: 100%;
@@ -550,7 +555,6 @@ there.
 
 .header img {
   padding-top: 10px;
-  margin-bottom: 40px;
 }
 
 .registry h1 {
